@@ -8,8 +8,8 @@
     "@testing-library/user-event": "^14.6.1",
     "caniuse-lite": "^1.0.30001760",
     "nanoid": "^5.1.6",
-    "react": "^19.2.1",
-    "react-dom": "^19.2.1"
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
